@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ely-alamillo/netlify-lambda#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "netlify-lambda": "^1.1.1"
   }
 }
