@@ -1,0 +1,22 @@
+{
+  "name": "netlify-lambda-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ely-alamillo/netlify-lambda.git"
+  },
+  "author": "Ely Alamillo <ely0013@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ely-alamillo/netlify-lambda/issues"
+  },
+  "homepage": "https://github.com/ely-alamillo/netlify-lambda#readme",
+  "dependencies": {
+    "netlify-lambda": "^1.1.1"
+  }
+}
